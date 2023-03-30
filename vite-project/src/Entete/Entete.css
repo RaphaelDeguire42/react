@@ -1,0 +1,19 @@
+.entete{
+   display: flex;
+   flex-direction: row;
+   margin: 0;
+   padding: 16px;
+   height: 128px;
+   background-color: rebeccapurple;
+   color: white;
+}
+
+.entete > nav{
+   display: flex;
+
+}
+
+.entete a{
+   color: whitesmoke;
+   margin-left: 16px;
+}
