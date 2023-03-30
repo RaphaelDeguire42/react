@@ -17,3 +17,8 @@
    color: whitesmoke;
    margin-left: 16px;
 }
+
+.entete .inputText,
+.entete button{
+   height: 25px;
+}
