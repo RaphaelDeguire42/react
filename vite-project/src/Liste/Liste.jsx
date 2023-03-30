@@ -14,6 +14,8 @@ export default function Liste(prop){
    }
 
    //let [produits, setProduits] = useState(aProduits)
+
+
    const htmlProduit = aProduits.map((unProduit, index)=>{
       return (
          <article key={index}>
